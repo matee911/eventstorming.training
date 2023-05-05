@@ -1,11 +1,12 @@
 ---
-title: "Contact"
+title: "Kontakt"
 weight: 4
 header_menu: true
+layout: "contact"
+bg_color_class: "command"
 ---
+Masz pytania? Chcesz skorzystać z naszych usług? 
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+Skontaktuj się z Nami! Skroimy usługę pod Twoje potrzeby.
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
-
-Let us get in touch!
+{{<contact_form>}}

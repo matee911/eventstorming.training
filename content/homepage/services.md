@@ -1,29 +1,13 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "Szkolenia i warsztaty"
+header_menu_title: "Usługi"
+navigation_menu_title: "Usługi"
 weight: 2
 header_menu: true
+bg_color_class: "event"
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
-
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+Wykorzystaj **Event Storming** aby poprawić komunikację wewnątrz jak i międzyzespołową, 
+wspomóc poznanie domeny, i zamodelować procesy biznesowe.
 
 ---
-
-### Nutrition Coaching
-
-This is not an easy task. 
-You will likely have to pay money for this.
-
-### Chef Consulting
-
-I can raise your table culture!
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-Want to learn more about my services? See [dedicated page](services) with more details.
