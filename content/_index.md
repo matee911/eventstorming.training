@@ -10,5 +10,5 @@ header_logo: "images/noun-post-it.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Event Storming"
-header_subheadline: "<b>Szkolenia, warsztaty, i konsultacje</b> - odkryj jego potęgę"
+header_subheadline: "<b>Łączy ludzi, dzieli oprogramowanie</b>"
 ---
