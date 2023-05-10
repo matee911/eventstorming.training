@@ -1,9 +1,9 @@
 :root {
 
     /* === Cover / Landing area === */
-    --cover-text-color: #406170; //#37501a;
+    --cover-text-color: #292C2C; //#37501a;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-    --highlight: #89CFF0; //#86c440;
+    --highlight: #33CCFF; //#86c440;
     --highlight-contrast: var(--cover-text-color);
     /*iverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
@@ -15,31 +15,31 @@
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: #ffa500; //#9fd067;
+    --sticky-menu-text-color: #ff9933; //#9fd067;
 
 
     /* === Alternating content (post) sections  === */
     /* Light section - text color */
-    --section-light-text-color: #3a4145;
+    --section-light-text-color: #33CCFF;
     /* Light section - background color */
     --section-light-bg-color: #f2efe8;
 
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #ffa500; //#b80135;
+    --section-dark-bg-color: #ff9933; //#b80135;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
-    --section-uni-quote: grey;
+    --section-uni-quote: #292C2C;
     /* Light&Dark section `code` a bit darker than 'Light section - background color' */
     --section-uni-code-bg-color: #e0ded7;
 
     /* Commands bg color */
-    --section-command-bg-color: #89CFF0;
+    --section-command-bg-color: #33CCFF;
     /* Events bg color */
-    --section-event-bg-color: #ffa500;
+    --section-event-bg-color: #ff9933;
     /* Read model bg color */
-    --section-read-bg-color: #8CFF74;
+    --section-read-bg-color: #CCFF99;
 
 
     /* === Footer === */
