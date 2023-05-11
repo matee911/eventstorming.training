@@ -241,6 +241,20 @@ a.fn-item {
     }
   }
 
+  &.policy {
+    // override variables for alternative style
+    --color-text: var(--section-dark-text-color);
+    --color-background: var(--section-policy-bg-color);
+
+    background-color: var(--section-policy-bg-color);
+    color: var(--section-dark-text-color);
+
+    // Fix <hr> color
+    hr {
+      border-color: var(--section-dark-text-color);
+    }
+  }
+
   /* The triangular parts between posts */
   .post-after {
     position: absolute;
