@@ -1,3 +1,5 @@
+@use 'sass:color';
+
 body {
   --color-text: var(--section-light-text-color);
   --color-background: var(--section-light-bg-color);
@@ -187,71 +189,89 @@ a.fn-item {
 
   &.command {
     // override variables for alternative style
-    --color-text: var(--section-dark-text-color);
+    --color-text: var(--section-command-color);
     --color-background: var(--section-command-bg-color);
 
-    background-color: var(--section-command-bg-color);
-    color: var(--section-dark-text-color);
+    background-color: var(--color-background);
+    color: var(--color-text);
 
     // Fix <hr> color
     hr {
-      border-color: var(--section-dark-text-color);
+      border-color: var(--color-text);
     }
 
     // On alt posts move the triangle to the right and match the background the color
     .post-after {
       left: unset;
       right: 6%;
-      border-top-color: var(--section-command-bg-color);
+      border-top-color: var(--color-background);
     }
   }
 
   &.event {
     // override variables for alternative style
-    --color-text: var(--section-dark-text-color);
+    --color-text: var(--section-event-color);
     --color-background: var(--section-event-bg-color);
 
-    background-color: var(--section-event-bg-color);
-    color: var(--section-dark-text-color);
+    background-color: var(--color-background);
+    color: var(--color-text);
 
     // Fix <hr> color
     hr {
-      border-color: var(--section-dark-text-color);
+      border-color: var(--color-text);
     }
 
     // On alt posts move the triangle to the right and match the background the color
     .post-after {
       left: unset;
       right: 6%;
-      border-top-color: var(--section-event-bg-color);
+      border-top-color: var(--color-background);
     }
   }
 
   &.read-model {
     // override variables for alternative style
-    --color-text: var(--section-dark-text-color);
+    --color-text: var(--section-read-color);
     --color-background: var(--section-read-bg-color);
 
-    background-color: var(--section-read-bg-color);
-    color: var(--section-dark-text-color);
+    background-color: var(--color-background);
+    color: var(--color-text);
 
     // Fix <hr> color
     hr {
-      border-color: var(--section-dark-text-color);
+      border-color: var(--color-text);
+    }
+
+    blockquote {
+      color: var(--color-text);
     }
   }
 
+
+
   &.policy {
     // override variables for alternative style
-    --color-text: var(--section-dark-text-color);
+    --color-text: var(--section-policy-color);
     --color-background: var(--section-policy-bg-color);
 
-    background-color: var(--section-policy-bg-color);
-    color: var(--section-dark-text-color);
+    background-color: var(--color-background);
+    color: var(--color-text);
 
     // Fix <hr> color
     hr {
-      border-color: var(--section-dark-text-color);
+      border-color: var(--color-text);
+    }
+
+    blockquote {
+      color: var(--color-text);
+    }
+
+    .post-title {
+      margin: 0;
+
+      a {
+        text-decoration: none;
+      }
     }
   }
 
