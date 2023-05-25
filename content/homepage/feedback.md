@@ -12,7 +12,7 @@ bg_color_class: "policy"
 > Okazuje się, że można wziąć każdy klocek i zrobić zbliżenie. 
 > Spoko było to, że to odtworzyliśmy w realiach naszej organizacji, 
 > czyli na Miro, bo tak tego będziemy używać przez 99% czasu.
-> --- [Maciej Jasik](https://www.linkedin.com/in/maciej-jasik-040376104/)
+> --- [Maciej Jasik | Software Engineer](https://www.linkedin.com/in/maciej-jasik-040376104/)
 
 > Cenna wiedza, którą dobrze przyswoić przed przeprowadzeniem event stormingu w zespole. 
 > Szkolenie przystępne - wiedza teoretyczna wraz z praktycznym użyciem. 
@@ -21,4 +21,4 @@ bg_color_class: "policy"
 > byl to po prostu proces rozwoju oprogramowania w danym zespole. 
 > Dzięki temu, nie było dodatkowego narzutu w postaci wiedzy domenowej danego projektu 
 > i można było się skupić na samym podejściu oraz poszczególnych etapach event stormingu.
-> --- [Janusz Rozwodowski](https://www.linkedin.com/in/janusz-rozwodowski-724078109/)
+> --- [Janusz Rozwodowski | QA Lead](https://www.linkedin.com/in/janusz-rozwodowski-724078109/)
