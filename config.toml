@@ -42,7 +42,7 @@ title = "Event Storming"
 
     # A "copyright"-line to be added at the bottom of the posts.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-posts.
-    copyright = "© <a href="https://matee.net/?utm_source=eventstorming.training&utm_medium=www&utm_campaign=www&utm_content=footer">Mateusz Pawlik</a>"
+    copyright = '© <a href="https://matee.net/?utm_source=eventstorming.training&utm_medium=www&utm_campaign=www&utm_content=footer">Mateusz Pawlik</a>'
 
     # This theme will, by default, inject a design-by-line at the bottom of the posts.
     # You can turn it off, but we would really appreciate if you don’t :-)
