@@ -30,6 +30,7 @@ Are you ready to harness the full potential of Event Storming? We offer you thre
 With our comprehensive Event Storming solution, you'll enhance communication, collaboration, and business processes within your organization. Say goodbye to silos, miscommunication, and inefficiencies, and embrace a streamlined approach that drives success.
 
 Empower your teams and drive innovation with our workshops and facilitation training.
-Secure your spot now and become a champion of domain understanding and facilitation mastery. 
+**Secure your spot now** and become a champion of domain understanding and facilitation mastery.
+Our trainings and workshops are available in both English and Polish languages.
 
 ---
