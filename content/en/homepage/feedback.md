@@ -16,6 +16,8 @@ bg_color_class: "policy"
 > that is on Miro, because that's what we will be using 99% of the time.
 > --- [Maciej Jasik | Software Engineer](https://www.linkedin.com/in/maciej-jasik-040376104/)
 
+---
+
 > Valuable knowledge, which is good to assimilate before conducting event storming in a team. 
 > The training was accessible - theoretical knowledge along with practical use. 
 > I had no previous contact with event storming, 

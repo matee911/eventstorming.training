@@ -20,6 +20,8 @@ Usprawnij komunikację, współpracę i modelowanie procesów biznesowych dzięk
 - Osiągaj wybitne wyniki w krótszym czasie.
 - Doświadcz rewolucyjnej siły Event Storming!
 
+---
+
 Jesteś gotowy, aby wykorzystać pełny potencjał Event Storming? Oferujemy Ci trzy możliwości:
 
 1. **Szkolenie z moderacji**: Stań się ekspertem w moderacji dzięki naszym kompleksowym programom szkoleniowym. Naucz się sztuki prowadzenia warsztatów Event Storming z pewnością siebie i finezją. Wyposażymy Cię w niezbędne umiejętności i techniki potrzebne do tworzenia angażujących środowisk, zarządzania dynamiką grupową oraz prowadzenia produktywnych i współpracujących sesji. Umocnij swoje umiejętności, aby samodzielnie prowadzić wpływowe warsztaty.
@@ -31,4 +33,3 @@ Dzięki naszemu kompleksowemu rozwiązaniu wzmocnisz komunikację, usprawnisz ws
 Wzmocnij swoje zespoły i napędzaj innowacje dzięki naszym **warsztatom** i **szkoleniom**.
 **Zarezerwuj swoje miejsce teraz.**
 
----

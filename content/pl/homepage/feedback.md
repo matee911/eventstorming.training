@@ -14,6 +14,8 @@ bg_color_class: "policy"
 > czyli na Miro, bo tak tego będziemy używać przez 99% czasu.
 > --- [Maciej Jasik | Software Engineer](https://www.linkedin.com/in/maciej-jasik-040376104/)
 
+---
+
 > Cenna wiedza, którą dobrze przyswoić przed przeprowadzeniem event stormingu w zespole. 
 > Szkolenie przystępne - wiedza teoretyczna wraz z praktycznym użyciem. 
 > Nie miałem wcześniej styczności z event stormingiem, 

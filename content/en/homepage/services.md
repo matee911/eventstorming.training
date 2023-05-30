@@ -21,6 +21,8 @@ Supercharge Communication, Collaboration, and modeling of Business Processes wit
 
 Experience the **game-changing power** of Event Storming!
 
+---
+
 Are you ready to harness the full potential of Event Storming? We offer you three possibilities:
 
 1. **Facilitation Training**: Become a facilitation expert with our comprehensive training programs. Learn **the art of leading** Event Storming workshops with confidence and finesse. We'll equip you with the essential skills and techniques needed to create engaging environments, manage group dynamics, and drive productive and collaborative sessions. Empower yourself to facilitate impactful workshops independently.
@@ -33,4 +35,4 @@ Empower your teams and drive innovation with our workshops and facilitation trai
 **Secure your spot now** and become a champion of domain understanding and facilitation mastery.
 Our trainings and workshops are available in both English and Polish languages.
 
----
+
