@@ -11,6 +11,14 @@ theme = "hugo-scroll"
 # The browser tab name
 title = "Event Storming"
 
+[languages]
+  [languages.en]
+    languageName="English"
+    header_subheadline='Merge the people, split the software'
+  [languages.pl]
+    languageName="Polish"
+    header_subheadline="Łącz ludzi, dziel oprogramowanie"
+
 # In order to add version information in the posts's footer set to true.
 # enableGitInfo = true
 
