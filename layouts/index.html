@@ -1,5 +1,6 @@
 {{ define "main" }}
-{{ $headless := .Site.GetPage "/homepage" }}
+{{ $path := "homepage" | printf "/%s/%s" .Site.Language.Lang }}
+{{ $headless := .Site.GetPage $path }}
 {{ $sections := $headless.Resources.ByType "page" }}
 {{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
 {{ $content := where $sections "Params.external" "==" nil }}
@@ -20,7 +21,7 @@
             {{- partial "custom_header_video.html" . -}}
         {{ end }}
 
-        <div id="site-head-content" class="inner">
+        <div id="site-head-content" class="inner"> |{{$sections}}|
             {{ with .Params.header_logo }}<img id="blog-logo" src="{{ . }}" />{{ end }}
 
             {{ if .Site.Params.title_guard }}<div class="title-and-description-guard">{{ end }}
